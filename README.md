@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL: https://github.com/Joseevb/NFT-preview-card-component
+- Solution URL: https://www.frontendmentor.io/solutions/nft-preview-card-BPS2ga5kZY
+- Live Site URL: https://joseevb.github.io/NFT-preview-card-component/
 
 ## My process
 
